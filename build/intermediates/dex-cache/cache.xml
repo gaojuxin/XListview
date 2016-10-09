@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\ASworkspace\XListView-master (1)\XListView-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20dae7e7d5e8eb7d1b4fe2010d80daf026f10b43">
+        <dex dex="F:\ASworkspace\XListView-master (1)\XListView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9edce079067728fdd9d1d65a496fdd87b7bdc3ce\classes.dex" />
+    </item>
+    <item
+        jar="F:\ASworkspace\XListView-master (1)\XListView-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e5ff7e7ec5970e7751abf7637e5c5a922eb4314">
+        <dex dex="F:\ASworkspace\XListView-master (1)\XListView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5eec6bc978ddee51f243f793f36fec5af5636e80\classes.dex" />
+    </item>
+
+</items>
